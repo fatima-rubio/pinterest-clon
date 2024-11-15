@@ -24,7 +24,7 @@ header nav {
 }
 #Pinterest_Icon {
     width: 30px;
-    height: 35px;
+    height: 40px;
     padding: 4px;
 }
 #Pinterest_Icon:hover {
@@ -93,6 +93,7 @@ header nav {
 .Contenido{
     position: absolute;
     margin-top: 80px;
+    margin-left: 50px;
 }
 .images{
     columns: 5 240px;
