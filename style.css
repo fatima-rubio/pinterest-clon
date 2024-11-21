@@ -144,6 +144,7 @@ header nav {
     padding: 4px;
     visibility: hidden;
     display: none;
+    cursor: pointer;
 }
 .oculto2{
     position: absolute;
@@ -156,4 +157,5 @@ header nav {
     padding: 4px;
     visibility: hidden;
     display: none;
+    cursor: pointer;
 }
